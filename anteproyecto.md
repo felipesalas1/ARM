@@ -85,6 +85,41 @@ Es importante tener en cuenta que las APIs pueden limitar el número de datos en
 
 El enlace de la bibliografía es este: https://www.zotero.org/groups/2803661/bibliografavisiones/library
 
+## Preguntas Diseño de Proyecto
+
+### Análisis
+
+#### Qué preguntas le voy a hacer a las fuentes ?
+
+Para de desarrollo de mi proyecto voy a hacer dos bloques de preguntas. El primero está relacionado con el funcionamiento del algoritmo y cómo este afecta el consumo de música. Y el segundo, sobre la estética del algoritmo y cómo el algoritmo entiende los objetos estéticos.
+
+Para el primer bloque tengo pensadas estas preguntas:
+
+1. ¿Qué efectos tiene el algoritmo de recomendación de música en el descubrimiento de música? 
+2. ¿cuáles son los parámetros que el algoritmo tiene en cuenta para recomendar o no recomendar la música?
+3. ¿Se han detectado consecuencias negativas en que el consumo de música esté mediado por un algoritmo BART?
+    3.1 Esto está relacionado con la estética del algoritmo y cómo es la experiencia del usuario y del algoritmo
+4. ¿Cómo cambia la experiencia del usuario con la curaduría algorítmica y con la curaduría humana?
+5. ¿Entienden las empresas de Streaming al algoritmo de recomendación?
+5. ¿Es el algoritmo de recomendación considerado un algoritmo curador por sus creadores?
+
+Para el segundo bloque tengo pensadas estas preguntas:
+
+1. ¿Cómo entiende el algoritmo los objetos estéticos?
+2. ¿Puede el algoritmo entender lo bello? 
+3. ¿Qué papel tiene el animo de lucro en la curaduría de objetos estéticos?
+4. ¿Cuál es la estética del algoritmo?
+    4.1 ¿Cómo es la experiencia estética del algoritmo?
+    4.2 ¿Cómo el algoritmo nos permite relacionarnos con la música? - Visto desde la estética
+    
+#### Pueden estas preguntas ser formuladas por un computador ?
+
+Si bien para la mayoría de las preguntas puede ser útil tener datos que pueden ser recopilados por un computador, es necesario un análisis posterior por un investigador que permita interpretar los datos. 
+
+#### Qué metodología, tecnología o modelo me permite formular esta pregunta computacionalmente ?
+
+En la mayoría de papers que tratan estas preguntas usan calculo y matemáticas para análizar los datos que da el algoritmo a los creadores de la plataforma. Sin embargo, usando el API de Spotify y big data se podrían obtener datos que ayuden a responder estas preguntas.
+
 ## Comentarios de mis compañeras y de Nicolás
 
 > Pensar en la divuglación con personas de la Escena. mirar con la Cara de Emer!! 
