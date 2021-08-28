@@ -170,6 +170,15 @@ Crear varias versiones del *contra algoritmo* y hacer pruebas A/B para ver cuál
 
 Creo que apenas esté la herramienta puedo realizar iteraciones hasta la etapa de análisis de los datos, donde es necesarioo dejar de recopilar datos para dedicarse al análisis. 
 
+## Comentarios Camilo 
+
+> El algoritmo curador, extender sobre esto. Cuál punto de vista de la curaduría me afirma que el algoritmo es curador! . puedo apropiar un concepto de una práctica y extrapolarlo a otro contexto/práctica
+> Quienes son los agentes de esta experiencia estética. 
+> Cómo decribir esta experiencia estética. Qué características son importantes para mi investigación. Tengo que describir esta experiencia, compararla con una experiencia en un museo.
+> Cómo puedo evaluar esta experiencia, ética, moral o pueden ser evaluados númericamente. Es cualitativa o Cuantitativa? Es el tiempo de las canciones. Definir que quiero como experiencia estética.
+> Elaborar sobre los términos de Algoritmo Curador y Experiencia Estética del algoritmo.
+
+
 ## Comentarios de mis compañeras y de Nicolás
 
 > Pensar en la divuglación con personas de la Escena. mirar con la Cara de Emer!! 
