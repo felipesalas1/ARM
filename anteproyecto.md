@@ -120,6 +120,26 @@ Si bien para la mayoría de las preguntas puede ser útil tener datos que pueden
 
 En la mayoría de papers que tratan estas preguntas usan calculo y matemáticas para análizar los datos que da el algoritmo a los creadores de la plataforma. Sin embargo, usando el API de Spotify y big data se podrían obtener datos que ayuden a responder estas preguntas.
 
+### Problema
+
+#### Cómo es el contexto del que surge el problema ?
+
+Con la aparición de las plataformas de streaming de música, el funcionamiento de la industria musical y el consumo de música ha cambiado radicalmente. El descubrimiento de nueva música ha pasado de ser influenciada por emisoras de radio, o por escuchar nuevos proyectos en tiendas de discos, a ser dictadas, en su mayoría, por algoritmos de recomendación (algoritmos BART) que hacen parte de las plataformas de streaming. Con esto, los algoritmos se convirtieron en los curadores personales de música para los usuarios. La experiencia que cada oyente tiene en las plataformas de streaming está mediada por un algoritmo que decide que música poner en aleatorio, o que canciones mostrar en las listas de reproducción para descubrir nueva música.  
+
+#### Tengo contacto directo con el contexto/comunidad ?
+
+Si y no, si bien tengo una cuenta en varias plataformas de streaming y puedo usar el API de estas para obtener datos de cómo funciona el algoritmo, las empresas siguen siendo hermeticas en cuanto al funcionamiento (también que la mayoría no saben en su totalidad cómo funciona su algortimo de recomendación) y muchos de los datos solamente los divulgan en papers y conferencias.
+
+
+#### Si tengo contacto directo.  Qué instrumentos me permiten recopilar la información que necesito para tomar decisiones y formular una solución ?
+
+El API de las plataformas
+
+
+##### Si no tengo contacto directo.  Qué fuentes preexistentes de información puedo usar para tomar decisiones ? (otros casos similares, contextos similares, etc)
+
+Los papers de las empresas de streaming y libros que han estudiado los efectos de los algoritmos en otros contextos, que apesar de estar diseñados para otros medios, su funcionamiento es similar. Por lo tanto, las consecuencias pueden ser similares o las mismas. 
+
 ## Comentarios de mis compañeras y de Nicolás
 
 > Pensar en la divuglación con personas de la Escena. mirar con la Cara de Emer!! 
