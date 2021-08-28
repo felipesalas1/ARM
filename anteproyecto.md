@@ -140,6 +140,36 @@ El API de las plataformas
 
 Los papers de las empresas de streaming y libros que han estudiado los efectos de los algoritmos en otros contextos, que apesar de estar diseñados para otros medios, su funcionamiento es similar. Por lo tanto, las consecuencias pueden ser similares o las mismas. 
 
+### Formulación de la Solución
+
+#### El problema puede resolverse con el uso de una herramienta por los agentes del contexto ?
+
+El problema puede solucionarse modificando el algoritmo para lograr contrarrestar sus efectos negativos.
+
+#### La herramienta puede usarse en otros contextos similares o para resolver problemas similares ?
+
+Sí, si se logra modificar o crear *contra algoritmos* estos pueden ser usados en cualquier otro contexto que use algoritmos de recomendación BART y de curaduría algorítmica.
+
+#### Cómo puedo asegurar la adopción de la herramienta y promover su uso ?
+
+La única forma es que este *contra algoritmo* ayude al afán de lucro de las plataformas o mejore de forma significativa la experiencia de los usuarios en las plataformas.
+
+### Evaluar la Solución
+
+#### Qué instrumentos puedo usar para evaluar el resultado del uso de la herramienta ?
+
+1. Datos y analíticas que se puedan recopilar de los usuarios de este *contra algoritmo* 
+2. Uso de Knime o herramientas de big data para lograr encontrar si la herramienta útil o si tiene efectos en el descubrimiento y adopción de nueva música
+
+
+#### Cómo puedo incorporar los resultados de esta evaluación para refinar la solución en iteraciones posteriores ?
+
+Crear varias versiones del *contra algoritmo* y hacer pruebas A/B para ver cuál funciona mejor.
+
+#### Hasta dónde puedo realizar iteraciones en el contexto de este proyecto, o etapa del proyecto ?
+
+Creo que apenas esté la herramienta puedo realizar iteraciones hasta la etapa de análisis de los datos, donde es necesarioo dejar de recopilar datos para dedicarse al análisis. 
+
 ## Comentarios de mis compañeras y de Nicolás
 
 > Pensar en la divuglación con personas de la Escena. mirar con la Cara de Emer!! 
