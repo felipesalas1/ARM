@@ -215,7 +215,16 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 
 > Curators create physical manifestations of analytic theories formulated primarily by critics. 
 
-* ¿Cuál es la crítica que hace el algoritmo de recomendación a las cancines? 
+* ¿Cuál es la crítica que hace el algoritmo de recomendación a las canciones? 
+~~* ¿Puede considerarse el algoritmo un elemento del algoritmo? ¿Es Spotify en su totalidad el curador y por lo tanto el algoritmo es la parte *computacional* de este curado humano-algoritmo? ~~
+* El algoritmo tiene una relación *capitalista* con los objetos estéticos, su crítica está inclinada hacía si es popular y/o comercial.
+
+
+
+
+## Prototipo
+
+* Usar Rapsberry Pi
 
 
 #### Por seguir investigando
