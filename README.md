@@ -234,8 +234,20 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 
 
 
+## Comentarios Avances 4 de agosto
 
+* Me sirve más el cáracter narrativo de la curaduría mas que la parte museográfica
+* Las AI normalmente se entiende como problemas cuantitativos
+* Definir bien mi hipótesis
+* Establecer la definición de curadoría que voy a usar
 
+¡Cómo el algoritmo de Spotify es Curador!
+* El algooritmo crea un curador a partir de mi críterio, un espejo de los gustos del usuario 
+* La experiencia estética del algoritmo es una copia de la experiencia estética que yo he buscado dentro de la plataforma 
+* Un algoritmo anti curaduría, o un nuevo tipo de curaduría
+* Mi pryecto puede ser un artefacto retórico, un objeto crítico que no tiene que ser 100% funcional
+
+[https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
 
 
 ## Comentarios Camilo 
