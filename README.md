@@ -170,6 +170,65 @@ Crear varias versiones del *contra algoritmo* y hacer pruebas A/B para ver cuál
 
 Creo que apenas esté la herramienta puedo realizar iteraciones hasta la etapa de análisis de los datos, donde es necesarioo dejar de recopilar datos para dedicarse al análisis. 
 
+## El Algorítmo Curador 
+
+### Funciones de un Curador
+
+Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográﬁco. División de museografía Museo Nacional de Colombia, abril de 2021, p. 41.
+
+
+1. Distribuir las obras en el espacio
+2. Crear el concepto de una exposición  
+* Definir el carácter de una exposición
+3. Crear una puesta en escena a partir de una colección de objetos
+4. Escribir un guión para las exposiciones
+
+### Funciones del algoritmo de Spotify
+
+1. Definir que elementos (canciones) y subcolecciones de elementos (Playlist) le muestra a los usuarios
+2. Crea una experiencia *única* para cada usuario en la plataforma
+* Recomienda que música escuchar según los gustos personales y el perfil al que se está asignado
+3. Crea narrativas sobre que música se debería escuchar según el estado de ánimo, género o situación
+4. Se adapta para crear una mejor experiencia para el usuario
+* Su objetivo principal es que el usuario siga usando la plataforma
+
+### Ideas
+
+* HARD - CORE. Un grupo de artistas que desarrolla metodos de curaduría algorítmica.
+[Ejemplos de Algoritmos Curadores](http://the-hard-core.eu/?page_id=13918)
+
+* Mackenzie, Adrian. “From API to AI: Platforms and Their Opacities”. Information, Communication & Society, vol. 22, núm. 13, noviembre de 2019, pp. 1989–2006. DOI.org (Crossref), https://doi.org/10.1080/1369118X.2018.1476569.
+
+> Los *Algoritmos de las redes sociales* crean formas opacas de propiedad y capitalización de los objetos.
+
+* La curaduría algorítmica no tiene nada negativo por si sola
+* Los algoritmos siempre están sesgados, debido a que su creador está sesgado (Kitchin)
+
+* Kowalski, Michael J. “The Curatorial Muse”. Contemporary Aesthetics, vol. 8, 2010, http://hdl.handle.net/2027/spo.7523862.0008.017.
+
+> As if the praxis-theory dialectic weren't enough of a challenge for curators in their role as educators, the very nature of the theories to be embodied in shows is actually much more unstable than a typical glossy catalogue essay would have one believe. There is a clear difference between the difficulty of demonstrating the value of a previously established canon, on the one hand, and the difficulty of making a case for the museum quality of new works, on the other, to say nothing of making a case for new ideas about the very nature of the project of art.  The nature of the power wielded by a curator in a given show and, hence, the complexion of that curator's educational function, varies with the type of theory being imparted.  I shall return to the paradoxical nature of well-intentioned teaching later in this essay. (p. 3)
+
+> The modern curator, whether of a custodial or activist bent, is typically an expert in many fields: history, conservation, administration, and the production of shows, to cite but the obvious.
+
+* Entra el algoritmo de Spotify en esta definición de *curador moderno*: ¿si es experto en muchos campos?
+* ¿Cómo puede el algoritmo de Spotify curar objetos estéticos si solamente los entiende como datos?
+
+> Curators create physical manifestations of analytic theories formulated primarily by critics. 
+
+* ¿Cuál es la crítica que hace el algoritmo de recomendación a las cancines? 
+
+
+#### Por seguir investigando
+
+* La estética del curador humano y de la curaduría.
+* Leer de estética, Kant, Reynolds, Hegel
+
+
+
+
+
+
+
 ## Comentarios Camilo 
 
 > El algoritmo curador, extender sobre esto. Cuál punto de vista de la curaduría me afirma que el algoritmo es curador! . puedo apropiar un concepto de una práctica y extrapolarlo a otro contexto/práctica
