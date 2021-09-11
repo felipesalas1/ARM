@@ -227,6 +227,7 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 * Usar Rapsberry Pi
 
 
+
 #### Por seguir investigando
 
 * La estética del curador humano y de la curaduría.
@@ -234,7 +235,8 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 
 
 
-## Comentarios Avances 4 de agosto
+
+## Comentarios Avances 4 de septiembre
 
 * Me sirve más el cáracter narrativo de la curaduría mas que la parte museográfica
 * Las AI normalmente se entiende como problemas cuantitativos
@@ -249,6 +251,13 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 
 [https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
 
+
+## Tutoría 11 de Septiembre
+
+* ¿Cuál es el prótotipo para mi parte teórica, ¿Es La hipótesis?
+* ¿Puede ser comparable el rol de un gatekeeper con el de un curador?
+* ¿Son estas labores iguales o son complementarias?
+* Dentro de Spotify se usa el término Curaduría Algorítmica. Algo-Torial por Bonini (2019)
 
 ## Comentarios Camilo 
 
