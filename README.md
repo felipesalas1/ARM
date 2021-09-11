@@ -258,6 +258,19 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 * ¿Puede ser comparable el rol de un gatekeeper con el de un curador?
 * ¿Son estas labores iguales o son complementarias?
 * Dentro de Spotify se usa el término Curaduría Algorítmica. Algo-Torial por Bonini (2019)
+* Puede haber una relación entre los Gatekeepers y los curadores, Bonini pone po ejemplo a los programadores de radio cómo
+
+## Comentarios Camilo 11 de Septiembre
+
+* Este gatekeeping está relacionado con los agentes involucrados en la plataforma de música
+* Curaduria es mostrar unas cosas y ocultar otras
+* Al escuchar lo más popular lo vuelve más popular y cierra el universo 
+* Comparar el encontrar nueva música con el resultado de busqueda de Google
+* El Gatekeeping es una consecuencia intensional para cumplir con los intereses de Spotify
+* Spotify tiene todo el control de la plataforma, pero al final que el usuario tenga un buena experiencia los beneficia a ellos también 
+* El comportamiento del algoritmo es un territorio de disputa entre los intereses de los usuarios y los de Spotify
+* Puedo hacer una playlist o algo así para usalo cómo ejemplo
+* Hacer una colección de conceptos 
 
 ## Comentarios Camilo 
 
