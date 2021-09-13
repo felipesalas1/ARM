@@ -260,6 +260,22 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 * Dentro de Spotify se usa el término Curaduría Algorítmica. Algo-Torial por Bonini (2019)
 * Puede haber una relación entre los Gatekeepers y los curadores, Bonini pone po ejemplo a los programadores de radio cómo
 
+## Comentarios de Paez
+
+* Los curadores dan juicio de valor, no son solo juicios de gusto 
+* El algoritmo no es tan complejo y robusto como para decirle al algoritmo que es un curador
+* Pensar los bueno y lo malo de tener esta curaduría, filtro burbuja, cámaras de eco. Permite enriquecerla pero no deja salirse de ella 
+* Instrumental, intermediario entre mi gusto y mi gusto
+* el conocimiento que el algoritmo tiene sobre mi música es sobre mi gusto. y el interés comercial 
+* Parte de mi análisis es que el algoritmo no es 100% curador
+* El papel del curador en moldear los gustos. El taste maker
+* La influencia de las personas en la cultura pop para moldear los gustos. un DJ o una emisora
+* Paralelo con las burbujas epistémicas
+* EL CONCEPTO CLAVE ES LA BRUBUJA ESTÉTICA, en el GUSTO
+* El gusto desde la sociología y no desde la filosofía
+* Mirar literatura en Psicología sobre los gustos
+* Literatura sobre cómo los sesgos afectan el gusto en el arte
+
 ## Comentarios Camilo 11 de Septiembre
 
 * Este gatekeeping está relacionado con los agentes involucrados en la plataforma de música
@@ -279,6 +295,8 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 > Cómo decribir esta experiencia estética. Qué características son importantes para mi investigación. Tengo que describir esta experiencia, compararla con una experiencia en un museo.
 > Cómo puedo evaluar esta experiencia, ética, moral o pueden ser evaluados númericamente. Es cualitativa o Cuantitativa? Es el tiempo de las canciones. Definir que quiero como experiencia estética.
 > Elaborar sobre los términos de Algoritmo Curador y Experiencia Estética del algoritmo.
+
+
 
 
 ## Comentarios de mis compañeras y de Nicolás
