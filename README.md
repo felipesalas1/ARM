@@ -65,6 +65,10 @@ Un posible inconveniente con el uso de las APIs es que estas pueden cambiar la c
 
 * Spotify. Web API | Spotify for Developers. https://developer.spotify.com/documentation/web-api/. Consultado el 9 de febrero de 2021.
 
+## Referentes
+
+* https://forgotify.com
+
 
 ## Metodología
 
