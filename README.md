@@ -39,6 +39,7 @@ Investigar sobre la estética de los algoritmos, sus sesgos, el filtro burbuja, 
 
 1. * Reflexión sobre la estética de los algoritmos de los resultados de la plataforma
 2. * Aplicación web que permite a los usuarios agregar nueva música a sus cuentas de las plataformas de streaming
+3. * Mapa interactivo sobre el funcionamiento del algoritmo
 
 ## Problema
 
@@ -88,6 +89,10 @@ Es importante tener en cuenta que las APIs pueden limitar el número de datos en
 ## Bibliografía anotada
 
 El enlace de la bibliografía es este: https://www.zotero.org/groups/2803661/bibliografavisiones/library
+
+## Link al Mapa Interactivo 
+
+https://miro.com/app/board/o9J_ltwhxZE=/?invite_link_id=690582374007
 
 ## Preguntas Diseño de Proyecto
 
@@ -291,6 +296,10 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 * El comportamiento del algoritmo es un territorio de disputa entre los intereses de los usuarios y los de Spotify
 * Puedo hacer una playlist o algo así para usalo cómo ejemplo
 * Hacer una colección de conceptos 
+
+## Comentarios Camilo 25 de Septiembre
+
+* Próxima tutoria ver que extrategía sirve 
 
 ## Comentarios Camilo 
 
