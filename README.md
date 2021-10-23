@@ -179,6 +179,23 @@ Crear varias versiones del *contra algoritmo* y hacer pruebas A/B para ver cuál
 
 Creo que apenas esté la herramienta puedo realizar iteraciones hasta la etapa de análisis de los datos, donde es necesarioo dejar de recopilar datos para dedicarse al análisis. 
 
+# Estética del algoritmo
+
+## El algoritmo espia 
+
+## El algoritmo cómo un conjunto de tecnologías
+
+## El algoritmo Gatekeeper
+
+## Burbuja Estética 
+
+* Esto es un paralelo a las burbujas epistémicas
+
+* El algoritmo es un espejo, nos muestra los gustos que nosotros ya le mostramos. Cada vez el algoritmo es menos arriesgado a mostrarnos algo nuevo para evitar un experiencia no agradable en la plataforma (Anderson et al.)
+
+* Buscar si tiene funcionamientos similaes con las burbujas epistémicas 
+
+
 ## El Algorítmo Curador 
 
 ### Funciones de un Curador
@@ -300,6 +317,19 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 ## Comentarios Camilo 25 de Septiembre
 
 * Próxima tutoria ver que extrategía sirve 
+
+## Comentarios tutoria 23 de octubre
+
+* Dar un juicio de valor al algoritmo es humanizarlo 
+* El algoritmo si sigue unos intereses de sus creadores
+* Crear un mapa de los intereses en los que está el algoritmo 
+* El algoritmo si puede pivilegiar cosas e intereses, pero toca entender bajo que condiciones funciona
+* Que el algoritmo funcione como otros intereses 
+* Hacer encuestas y preguntas más especificas, preguntar si les gustó la experiencia, comparar una plyalist creada automaticamente y una por mi app
+* Que mi app le de play y con esa canción cree la playlist 
+* No tengo que comprobrar todo, con ka experimentación puedo apoyar mi argumento
+* esto puede servir para caracterizar el algoritmo, cuidado no humanizarlo
+* Usar las eval
 
 ## Comentarios Camilo 
 
