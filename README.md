@@ -360,3 +360,35 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 > Aclarar si voy a poder responder las dos preguntas, quizá la segunda solamente por encima
 > Añadir una diapositiva con la hipotesis y poner fuentes 
 > No tiene que ser tan rigido, puedo añadir más partes
+
+## Tutoria 20 de Noviembre 
+
+> Marco teorico 
+Estado del arte
+Marco teorico
+Mirar la Tesis de Hugo Idarraga
+Mirar la tesis de Santiago Arteaga
+La presentación del colocio es rápida, sacar los conceptos más importantes, navegar el mapa como presentación
+
+
+## Comentarios 22 nov Andrés Paéz 
+
+* Las cajas de resonacia son activas en cuanto le muestro lo que no me gusta
+
+* Las burbujas estéticas son individuales, no excluyen individuos 
+
+* Las personas no se enteran que hay intereses comerciales
+
+* El curador no me está vendiendo cosas 
+
+* Burbuja Estética en cuanto a que afecta los sentidos
+
+* Su justo está siendo moldeado 
+
+* Volver a estudiar esto del taste making 
+
+* Burbuja pasiva a que no me expone a nuevos generos 
+
+* La manipulación es por el aumento la popularidad y la cantidad de playlist 
+
+* Hacer mini ensayos, uno de la parta comercial, uno de la técnica y uno de la teorica 
