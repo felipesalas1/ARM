@@ -179,6 +179,7 @@ Crear varias versiones del *contra algoritmo* y hacer pruebas A/B para ver cuál
 
 Creo que apenas esté la herramienta puedo realizar iteraciones hasta la etapa de análisis de los datos, donde es necesarioo dejar de recopilar datos para dedicarse al análisis. 
 
+<<<<<<< Updated upstream:README.md
 # Estética del algoritmo
 
 ## El algoritmo espia 
@@ -341,6 +342,11 @@ Dever Restrepo, Paula, y Amparo Carrizosa. Manual básico de montaje museográ�
 
 
 
+=======
+## Comentarios Camilo 
+
+El algoritmo curador, extender sobre esto. Cuál punto de vista de la curaduría me afirma que el algoritmo es curador! . puedo apropiar un concepto de una práctica y extrapolarlo a otro contexto/práctica
+>>>>>>> Stashed changes:anteproyecto.md
 
 ## Comentarios de mis compañeras y de Nicolás
 
