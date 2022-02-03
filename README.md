@@ -420,6 +420,11 @@ La presentación del colocio es rápida, sacar los conceptos más importantes, n
 ### Sistemas de recomendación colaborativos 
 
 * leer más sobre que Sistema de recomendación tiene Spotify, si User based or Item based. Con esto en mente, tengo que tener en cuenta que si es Item-based Spotify no toma en cuenta la información de otros usuarios (Las recomendaciones están en una burbuja estética), si es User-based toma en cuenta usuarios similares para recomendar nuevas cosas a los usaurios. Por ahora yo he asumido que el algoritmo es User-Based, quizá Spotify es Item-Based y User based según la información que tenga del usuario. 
+* Impacto del Long Tail, p.39 de Aggarwal. As discussed in section 2.2, the distribution of ratings typically shows a long-tail distribution in many real scenarios. Some movies may be very popular and they may repeatedly occur as commonly rated items by diﬀerent users. Such ratings can sometimes worsen the quality of the recommendations because they tend to be less discriminative across different users..
+* Leer bien el subtítutlo 2.3.4 sobre los beneficios del user y del item sobre diversidad.
+* En Spotify la cantidad de Items y de Usuarios aumenta siempre, quizá si utilizan un sistema de recomendación user e Item based al mismo tiempo 
+* Sparsity, pensar como puede afectar las burbujas estéticas
+* Leer sobre los Clusters methods, esto podría explicar como son los sesgos del algoritmo.
 
 ### Performance
 * Schechner tambien dice que todo performance es una acción entrenada y ensayada. los sujetos deben aprender patrones culturales de comportamiento y los roles que debe desempeñar en determinadas circustancias sociales.
