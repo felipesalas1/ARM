@@ -398,3 +398,30 @@ La presentación del colocio es rápida, sacar los conceptos más importantes, n
 * La manipulación es por el aumento la popularidad y la cantidad de playlist 
 
 * Hacer mini ensayos, uno de la parta comercial, uno de la técnica y uno de la teorica 
+
+## Comentarios Coloquio 1 Diciembre 
+
+### Comentarios María José
+
+* Trabajar más en los sesgos de los algoritmos 
+
+* El algoritmo no tiene agencia, los sesgos son de los creadores
+
+* Que significa una experiencia buena para los usuarios de Spotify 
+
+* Que sería una experienca no hegemónica 
+
+* Definir la experience Hegemónica 
+
+### Comentarios Camilo 
+
+* La agencia como influencia, pero también como lo que dejan de hacer. Entender cómo está distribuido el poder.
+
+### Sistemas de recomendación colaborativos 
+
+* leer más sobre que Sistema de recomendación tiene Spotify, si User based or Item based. Con esto en mente, tengo que tener en cuenta que si es Item-based Spotify no toma en cuenta la información de otros usuarios (Las recomendaciones están en una burbuja estética), si es User-based toma en cuenta usuarios similares para recomendar nuevas cosas a los usaurios. Por ahora yo he asumido que el algoritmo es User-Based, quizá Spotify es Item-Based y User based según la información que tenga del usuario. 
+
+### Performance
+* Schechner tambien dice que todo performance es una acción entrenada y ensayada. los sujetos deben aprender patrones culturales de comportamiento y los roles que debe desempeñar en determinadas circustancias sociales.
+* El algoritmo hace parte de este performance de la escucha de la música en las plataformas, es un objeto más de este performance, sin embargo este puede que no cumpla todas las expectativas culturales. Acá se puede relacionar con el paper de como funciona el algoritmo en america latina
+* Revisar conducta restauradda (restored behavior) de Schechner (p34-35) Schenker, Heinric. 2002. The Art of Performance. Oxford: Oxford University Press.
