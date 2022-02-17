@@ -425,6 +425,20 @@ La presentación del colocio es rápida, sacar los conceptos más importantes, n
 * En Spotify la cantidad de Items y de Usuarios aumenta siempre, quizá si utilizan un sistema de recomendación user e Item based al mismo tiempo 
 * Sparsity, pensar como puede afectar las burbujas estéticas
 * Leer sobre los Clusters methods, esto podría explicar como son los sesgos del algoritmo.
+* El sesgo de popularidad
+
+### Burbujas estéticas 
+
+* werner menciona que la cultura algoritmica reduce las decisiones de gusto a unos pocos actores y estos definen que es lo bueno y para quien es lo bueno. Las burbujas estéticas no solamente están dentro de Spotify, de otros sitios que usan recomendaciones algorítmicas también recibimos estas decisiones de gusto. 
+* Tengo que ver como Nguyen explica las deciciones en las burbujas epístemicas, estas decisiones se podrían comprar con el trust que uno le da a ciertos agentes
+
+
+#### Burbujas Estéticas, parte comercial 
+
+* Hablar de las tres cuentas de playlist de las tres disqueras más grandes 
+* mencionar como no es solamente pagar para estar en playlist, sino que sus pyalist sean las más recomendadas, de esta forma la popularidad hace que sean recomendadas más veces, es un ciclo. Acá se puede poner una cita de Ugwul (texto de las playlist de buzzfeed) donde habla de eso, mencionan que la popularidad es importante para sacar o dejar una canción.
+* Mencionar que al iniciar por primera vez en la aplicación las canciones que recomienda con las que más suenan, las más comerciales. Esto no es necesariamente negativo, solo muestra que la diversidad de consumo está relacionada no solamente con el sesgo de populardidad, sino con que el mercado quiere que se escuchen más sus canciones. 
+
 
 ### Performance
 * Schechner tambien dice que todo performance es una acción entrenada y ensayada. los sujetos deben aprender patrones culturales de comportamiento y los roles que debe desempeñar en determinadas circustancias sociales.
