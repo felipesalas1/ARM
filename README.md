@@ -427,6 +427,16 @@ La presentación del colocio es rápida, sacar los conceptos más importantes, n
 * Leer sobre los Clusters methods, esto podría explicar como son los sesgos del algoritmo.
 * El sesgo de popularidad
 
+
+#### Partes faltantes funcionamiento del algoritmo 
+
+* agregar que el SR también hace NLP de sitios en la web para obtener descripción de los artistas y canciones. 
+
+
+#### Comentarios para escribir 
+
+* Spotify recomienda de forma directa cuando nos dice que escuchar, y de forma indirecta con el posicionamiento de las playlist en la interfaz. Esto es una parte importante de la burbuja estética. no sé como, pero supongo que si jejejej 
+
 ### Burbujas estéticas 
 
 * werner menciona que la cultura algoritmica reduce las decisiones de gusto a unos pocos actores y estos definen que es lo bueno y para quien es lo bueno. Las burbujas estéticas no solamente están dentro de Spotify, de otros sitios que usan recomendaciones algorítmicas también recibimos estas decisiones de gusto. 
