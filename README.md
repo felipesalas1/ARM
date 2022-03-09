@@ -437,6 +437,11 @@ La presentación del colocio es rápida, sacar los conceptos más importantes, n
 
 * Spotify recomienda de forma directa cuando nos dice que escuchar, y de forma indirecta con el posicionamiento de las playlist en la interfaz. Esto es una parte importante de la burbuja estética. no sé como, pero supongo que si jejejej 
 
+* Los sistemas de búsqueda también son afectados por el sistema de recomendación o por sus segsos, funcionan de forma similar, no son solamente un busqueda de la base datos, sino una búsqueda que tienen en cuenta que es lo que les puede gustar a los usuarios. acá se puede poner la cita que de desde el 2019 google personaliza las búsquedas.
+
+* ¿Cuáles son los objetivos del sistema de recomendación de Spotify, es solamente mejorar la experiencia al encontrar nuevas cosas o también que Spotify reciba dinero por otros agentes?
+
+* El aoglritmo toma datos de fuentes escritas, esto también puede significar que obtiene los sesgos de otras personas 
 ### Burbujas estéticas 
 
 * werner menciona que la cultura algoritmica reduce las decisiones de gusto a unos pocos actores y estos definen que es lo bueno y para quien es lo bueno. Las burbujas estéticas no solamente están dentro de Spotify, de otros sitios que usan recomendaciones algorítmicas también recibimos estas decisiones de gusto. 
